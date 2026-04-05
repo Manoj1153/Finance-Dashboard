@@ -95,3 +95,13 @@ The application focuses on user interface design, component structure, state man
     • Budgets
 
 • Local storage is used for data persistence.
+
+## 🛠️ Tech Stack
+
+• React.js
+
+• Chart.js (react-chartjs-2)
+
+• Tailwind CSS
+
+•JavaScript (ES6+)
