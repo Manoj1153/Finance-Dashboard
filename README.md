@@ -104,4 +104,4 @@ The application focuses on user interface design, component structure, state man
 
 • Tailwind CSS
 
-•JavaScript (ES6+)
+• JavaScript (ES6+)
