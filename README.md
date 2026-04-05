@@ -38,7 +38,7 @@ The application focuses on user interface design, component structure, state man
 
 • Clean table layout with proper structure
 
-# 🔐 Role-Based UI
+## 🔐 Role-Based UI
 
 • Role switching (Admin / Viewer)
 
@@ -49,3 +49,13 @@ The application focuses on user interface design, component structure, state man
 • Admin:
    
     • Can add and edit transactions
+
+# 💡 Insights Section
+
+• Displays key financial insights:
+
+    • Total expenses
+    
+    • Current balance/savings
+    
+    • Spending observations based on data
