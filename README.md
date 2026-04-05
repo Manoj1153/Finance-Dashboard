@@ -110,16 +110,16 @@ The application focuses on user interface design, component structure, state man
 
 1. Clone the repository:
    
-    git clone <your-repo-link>
+        git clone <your-repo-link>
     
 2. Navigate to the project folder:
    
-    cd finance-dashboard
+        cd finance-dashboard
 
-3.Install dependencies:
+3. Install dependencies:
 
-    npm install
+        npm install
     
-4.Run the project:
+4. Run the project:
 
-    npm start
+        npm start
