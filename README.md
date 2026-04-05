@@ -42,10 +42,10 @@ The application focuses on user interface design, component structure, state man
 
 • Role switching (Admin / Viewer)
 
-       • Viewer:
+• Viewer:
    
-• Can only view data
+    • Can only view data
 
-       • Admin:
+• Admin:
    
-• Can add and edit transactions
+    • Can add and edit transactions
