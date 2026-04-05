@@ -132,13 +132,21 @@ The application focuses on user interface design, component structure, state man
 ![Dashboard](./screenshots/dashboard-2.png)
 
 
-## 📋 Transactions
+### 📋 Transactions
 
 ![Transactions](./screenshots/transactions.png)
 
-## 📈 Analytics
+### 📈 Analytics
 
 ![Analytics](./screenshots/analytics.png)
+
+### 🎯 Budget Tracking
+
+![Budget](./screenshots/budget.png)
+
+### 📑 Reports
+
+![Reports](./screenshots/reports.png)
 
 ## 🧩 Approach
 
