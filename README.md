@@ -124,6 +124,9 @@ The application focuses on user interface design, component structure, state man
 
         npm start
 
+## 📷 Screenshots
+
+
 ## 🧩 Approach
 
 • The application is designed with a focus on:
