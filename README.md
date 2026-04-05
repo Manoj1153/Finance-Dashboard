@@ -137,3 +137,15 @@ The application focuses on user interface design, component structure, state man
     • User-friendly interface and smooth interactions
 
 • Mock data and local storage are used to simulate real-world usage without backend dependency.
+
+## ✨ Additional Features Implemented
+
+• Dark mode toggle
+
+• Budget tracking system
+
+• Toast notifications
+
+• Responsive layout
+
+• Data persistence using local storage
