@@ -18,3 +18,22 @@ The application focuses on user interface design, component structure, state man
 • Time-based visualization using a Line Chart (monthly financial flow)
 
 • Category-based visualization using a Pie Chart (income vs expenses)
+
+## 📋 Transactions Management
+• View all transactions with:
+
+    • Date
+    
+    • Description
+    
+    • Category
+     
+    • Amount
+    
+• Add and edit transactions (Admin role)
+
+• Search transactions by description
+
+• Filter transactions by date
+
+• Clean table layout with proper structure
