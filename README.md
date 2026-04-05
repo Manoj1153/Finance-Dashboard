@@ -79,3 +79,19 @@ The application focuses on user interface design, component structure, state man
 • Toast notifications for user actions
 
 • Handles empty states gracefully
+
+## 🧠 State Management
+
+• The application uses React useState and useEffect hooks for managing:
+
+    • Transactions data
+    
+    • Filters (search and date)
+    
+    • Role switching
+    
+    • Theme (dark/light mode)
+    
+    • Budgets
+
+• Local storage is used for data persistence.
