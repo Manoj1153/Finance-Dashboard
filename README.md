@@ -37,3 +37,15 @@ The application focuses on user interface design, component structure, state man
 • Filter transactions by date
 
 • Clean table layout with proper structure
+
+# 🔐 Role-Based UI
+
+• Role switching (Admin / Viewer)
+
+   • Viewer:
+   
+• Can only view data
+
+   • Admin:
+   
+• Can add and edit transactions
