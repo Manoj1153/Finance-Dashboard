@@ -149,3 +149,9 @@ The application focuses on user interface design, component structure, state man
 • Responsive layout
 
 • Data persistence using local storage
+
+
+## 📌 Notes
+• This project uses mock data and does not include backend integration.
+
+• All functionality is implemented on the frontend as per assignment requirements.
