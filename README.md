@@ -50,7 +50,7 @@ The application focuses on user interface design, component structure, state man
    
     • Can add and edit transactions
 
-# 💡 Insights Section
+## 💡 Insights Section
 
 • Displays key financial insights:
 
@@ -59,3 +59,11 @@ The application focuses on user interface design, component structure, state man
     • Current balance/savings
     
     • Spending observations based on data
+
+## 🎯 Budget Tracking
+
+• Set budgets for different categories
+
+• Track spending vs budget
+
+•Visual progress bars with overspending indication
