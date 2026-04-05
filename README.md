@@ -66,4 +66,16 @@ The application focuses on user interface design, component structure, state man
 
 • Track spending vs budget
 
-•Visual progress bars with overspending indication
+• Visual progress bars with overspending indication
+
+## 🌙 UI/UX Enhancements
+
+• Dark mode support
+
+• Responsive design (works across devices)
+
+• Clean and modern UI with consistent spacing
+
+• Toast notifications for user actions
+
+• Handles empty states gracefully
