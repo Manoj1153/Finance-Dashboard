@@ -3,7 +3,7 @@ This project is a responsive and interactive Finance Dashboard UI that helps use
 
 The application focuses on user interface design, component structure, state management, and overall user experience, without relying on backend integration. It demonstrates how financial data can be effectively organized and presented using modern frontend development practices.
 
-##🚀 Features
+###🚀 Features
 
 ##📊 Dashboard Overview
 
