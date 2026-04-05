@@ -14,5 +14,6 @@ The application focuses on user interface design, component structure, state man
     • Net Balance
     
     • Number of Transactions
+    
 • Time-based visualization using a Line Chart (monthly financial flow)
 • Category-based visualization using a Pie Chart (income vs expenses)
