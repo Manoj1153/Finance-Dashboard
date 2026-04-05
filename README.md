@@ -125,7 +125,20 @@ The application focuses on user interface design, component structure, state man
         npm start
 
 ## 📷 Screenshots
+### 📊 Dashboard
 
+![Dashboard](./screenshots/dashboard-1.png)
+
+![Dashboard](./screenshots/dashboard-2.png)
+
+
+## 📋 Transactions
+
+![Transactions](./screenshots/transactions.png)
+
+## 📈 Analytics
+
+![Analytics](./screenshots/analytics.png)
 
 ## 🧩 Approach
 
