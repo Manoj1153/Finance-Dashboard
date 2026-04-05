@@ -2,3 +2,13 @@
 This project is a responsive and interactive Finance Dashboard UI that helps users track financial activity, visualize spending patterns, and manage transactions through a clean and intuitive interface. 
 
 The application focuses on user interface design, component structure, state management, and overall user experience, without relying on backend integration. It demonstrates how financial data can be effectively organized and presented using modern frontend development practices.
+
+🚀 Features
+📊 Dashboard Overview
+Summary cards displaying:
+Total Income
+Total Expenses
+Net Balance
+Number of Transactions
+Time-based visualization using a Line Chart (monthly financial flow)
+Category-based visualization using a Pie Chart (income vs expenses)
