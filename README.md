@@ -123,3 +123,17 @@ The application focuses on user interface design, component structure, state man
 4. Run the project:
 
         npm start
+
+## 🧩 Approach
+
+• The application is designed with a focus on:
+
+    • Modular and reusable components
+    
+    • Clear separation of concerns
+    
+    • Simple and maintainable state management
+    
+    • User-friendly interface and smooth interactions
+
+• Mock data and local storage are used to simulate real-world usage without backend dependency.
