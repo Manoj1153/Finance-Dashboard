@@ -105,3 +105,21 @@ The application focuses on user interface design, component structure, state man
 • Tailwind CSS
 
 • JavaScript (ES6+)
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   
+    git clone <your-repo-link>
+    
+2. Navigate to the project folder:
+   
+    cd finance-dashboard
+
+3.Install dependencies:
+
+    npm install
+    
+4.Run the project:
+
+    npm start
